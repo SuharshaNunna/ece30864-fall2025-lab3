@@ -1,2 +1,5 @@
 a. Pros: tracking developmental workflow and constant collaboration with customers. Cons: Breaking down at each stage may take time, harder to tackle sudden issues fast.
 b. Product owner manages team and sets direction, handles release and interaction with stakeholder. Scrum master does all the scrum tasks with jira, sprint managment and meetings.
+c. Sprint planning meeting: figure out what needs to be completed in the sprint, moving stories in the scope from backlog to current sprint. 
+    Daily scrum or standup: short meeting every day, team members bring blockers, work done, and action items. 
+    sprint retrospecive meeting: at the end of the sprint, talk about end of sprint and move unfinished work to backlog.

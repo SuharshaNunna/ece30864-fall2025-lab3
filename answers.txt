@@ -3,3 +3,4 @@ b. Product owner manages team and sets direction, handles release and interactio
 c. Sprint planning meeting: figure out what needs to be completed in the sprint, moving stories in the scope from backlog to current sprint. 
     Daily scrum or standup: short meeting every day, team members bring blockers, work done, and action items. 
     sprint retrospecive meeting: at the end of the sprint, talk about end of sprint and move unfinished work to backlog.
+d. Epic is a large body of work that can be broken down, Story is a software system requirement, Bug is a small unit of work that could be causing a block to a story, Task is under a story or ajdacent and a issue of work that can be tracked through workflow.
